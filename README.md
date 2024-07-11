@@ -1,1 +1,1 @@
-döviz cevirici
+döviz çevirici
